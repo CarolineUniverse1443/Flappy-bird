@@ -1,0 +1,36 @@
+C:\Users\Техник\Documents\А и К ПКС2-18\Flappy bird game\Flappy bird game\bin\Debug\Flappy bird game.exe.config
+C:\Users\Техник\Documents\А и К ПКС2-18\Flappy bird game\Flappy bird game\bin\Debug\Flappy bird game.exe
+C:\Users\Техник\Documents\А и К ПКС2-18\Flappy bird game\Flappy bird game\bin\Debug\Flappy bird game.pdb
+C:\Users\Техник\Documents\А и К ПКС2-18\Flappy bird game\Flappy bird game\obj\Debug\Flappy bird game.csprojResolveAssemblyReference.cache
+C:\Users\Техник\Documents\А и К ПКС2-18\Flappy bird game\Flappy bird game\obj\Debug\Flappy_bird_game.Form1.resources
+C:\Users\Техник\Documents\А и К ПКС2-18\Flappy bird game\Flappy bird game\obj\Debug\Flappy_bird_game.Properties.Resources.resources
+C:\Users\Техник\Documents\А и К ПКС2-18\Flappy bird game\Flappy bird game\obj\Debug\Flappy bird game.csproj.GenerateResource.Cache
+C:\Users\Техник\Documents\А и К ПКС2-18\Flappy bird game\Flappy bird game\obj\Debug\Flappy bird game.exe
+C:\Users\Техник\Documents\А и К ПКС2-18\Flappy bird game\Flappy bird game\obj\Debug\Flappy bird game.pdb
+D:\C# CODES\WINDOWS FORMS\Flappy bird game\Flappy bird game\bin\Debug\Flappy bird game.exe.config
+D:\C# CODES\WINDOWS FORMS\Flappy bird game\Flappy bird game\bin\Debug\Flappy bird game.exe
+D:\C# CODES\WINDOWS FORMS\Flappy bird game\Flappy bird game\bin\Debug\Flappy bird game.pdb
+D:\C# CODES\WINDOWS FORMS\Flappy bird game\Flappy bird game\obj\Debug\Flappy bird game.csprojAssemblyReference.cache
+D:\C# CODES\WINDOWS FORMS\Flappy bird game\Flappy bird game\obj\Debug\Flappy_bird_game.Form1.resources
+D:\C# CODES\WINDOWS FORMS\Flappy bird game\Flappy bird game\obj\Debug\Flappy_bird_game.Properties.Resources.resources
+D:\C# CODES\WINDOWS FORMS\Flappy bird game\Flappy bird game\obj\Debug\Flappy bird game.csproj.GenerateResource.cache
+D:\C# CODES\WINDOWS FORMS\Flappy bird game\Flappy bird game\obj\Debug\Flappy bird game.exe
+D:\C# CODES\WINDOWS FORMS\Flappy bird game\Flappy bird game\obj\Debug\Flappy bird game.pdb
+G:\WindowsForms\Flappy bird game2\Flappy bird game\bin\Debug\Flappy bird game.exe.config
+G:\WindowsForms\Flappy bird game2\Flappy bird game\bin\Debug\Flappy bird game.exe
+G:\WindowsForms\Flappy bird game2\Flappy bird game\bin\Debug\Flappy bird game.pdb
+G:\WindowsForms\Flappy bird game2\Flappy bird game\obj\Debug\Flappy bird game.csprojAssemblyReference.cache
+G:\WindowsForms\Flappy bird game2\Flappy bird game\obj\Debug\Flappy_bird_game.Form1.resources
+G:\WindowsForms\Flappy bird game2\Flappy bird game\obj\Debug\Flappy_bird_game.Properties.Resources.resources
+G:\WindowsForms\Flappy bird game2\Flappy bird game\obj\Debug\Flappy bird game.csproj.GenerateResource.cache
+G:\WindowsForms\Flappy bird game2\Flappy bird game\obj\Debug\Flappy bird game.exe
+G:\WindowsForms\Flappy bird game2\Flappy bird game\obj\Debug\Flappy bird game.pdb
+D:\C# CODES\WINDOWS FORMS\Flappy bird game2\Flappy bird game\bin\Debug\Flappy bird game.exe.config
+D:\C# CODES\WINDOWS FORMS\Flappy bird game2\Flappy bird game\bin\Debug\Flappy bird game.exe
+D:\C# CODES\WINDOWS FORMS\Flappy bird game2\Flappy bird game\bin\Debug\Flappy bird game.pdb
+D:\C# CODES\WINDOWS FORMS\Flappy bird game2\Flappy bird game\obj\Debug\Flappy bird game.csprojAssemblyReference.cache
+D:\C# CODES\WINDOWS FORMS\Flappy bird game2\Flappy bird game\obj\Debug\Flappy_bird_game.Form1.resources
+D:\C# CODES\WINDOWS FORMS\Flappy bird game2\Flappy bird game\obj\Debug\Flappy_bird_game.Properties.Resources.resources
+D:\C# CODES\WINDOWS FORMS\Flappy bird game2\Flappy bird game\obj\Debug\Flappy bird game.csproj.GenerateResource.cache
+D:\C# CODES\WINDOWS FORMS\Flappy bird game2\Flappy bird game\obj\Debug\Flappy bird game.exe
+D:\C# CODES\WINDOWS FORMS\Flappy bird game2\Flappy bird game\obj\Debug\Flappy bird game.pdb
